@@ -1,0 +1,386 @@
+bond_style	 harmonic
+bond_coeff 1 ${prot_k} ${sigma} # Actual    3.7799063015
+bond_coeff 2 ${prot_k} ${sigma} # Actual    3.7800397279
+bond_coeff 3 ${prot_k} ${sigma} # Actual    3.7792625729
+bond_coeff 4 ${prot_k} ${sigma} # Actual    3.7751039783
+bond_coeff 5 ${prot_k} ${sigma} # Actual    3.7802408509
+bond_coeff 6 ${prot_k} ${sigma} # Actual    3.7798972593
+bond_coeff 7 ${prot_k} ${sigma} # Actual    3.7806162026
+bond_coeff 8 ${prot_k} ${sigma} # Actual    3.7803322609
+bond_coeff 9 ${prot_k} ${sigma} # Actual    3.7803349516
+bond_coeff 10 ${prot_k} ${sigma} # Actual    3.7741379196
+bond_coeff 11 ${prot_k} ${sigma} # Actual    3.7809049773
+bond_coeff 12 ${prot_k} ${sigma} # Actual    3.7797526098
+bond_coeff 13 ${prot_k} ${sigma} # Actual    3.7805538368
+bond_coeff 14 ${prot_k} ${sigma} # Actual    3.7801975866
+bond_coeff 15 ${prot_k} ${sigma} # Actual    3.7804626431
+bond_coeff 16 ${prot_k} ${sigma} # Actual    3.7809967174
+bond_coeff 17 ${prot_k} ${sigma} # Actual    3.7801574954
+bond_coeff 18 ${prot_k} ${sigma} # Actual    3.7804470830
+bond_coeff 19 ${prot_k} ${sigma} # Actual    3.7806056073
+bond_coeff 20 ${prot_k} ${sigma} # Actual    3.7811194452
+bond_coeff 21 ${prot_k} ${sigma} # Actual    3.7804505500
+bond_coeff 22 ${prot_k} ${sigma} # Actual    3.7807104997
+bond_coeff 23 ${prot_k} ${sigma} # Actual    3.7787876496
+bond_coeff 24 ${prot_k} ${sigma} # Actual    3.7789155516
+bond_coeff 25 ${prot_k} ${sigma} # Actual    3.7812354929
+bond_coeff 26 ${prot_k} ${sigma} # Actual    3.7801491469
+bond_coeff 27 ${prot_k} ${sigma} # Actual    3.7799381568
+bond_coeff 28 ${prot_k} ${sigma} # Actual    3.7792770359
+bond_coeff 29 ${prot_k} ${sigma} # Actual    3.7793556475
+bond_coeff 30 ${prot_k} ${sigma} # Actual    3.7791985740
+bond_coeff 31 ${prot_k} ${sigma} # Actual    3.7794679591
+bond_coeff 32 ${prot_k} ${sigma} # Actual    3.7789209994
+bond_coeff 33 ${prot_k} ${sigma} # Actual    3.7800403651
+bond_coeff 34 ${prot_k} ${sigma} # Actual    3.7800531521
+bond_coeff 35 ${prot_k} ${sigma} # Actual    3.7803649652
+bond_coeff 36 ${prot_k} ${sigma} # Actual    3.7767368428
+bond_coeff 37 ${prot_k} ${sigma} # Actual    3.7773945772
+bond_coeff 38 ${prot_k} ${sigma} # Actual    3.7809630129
+bond_coeff 39 ${prot_k} ${sigma} # Actual    3.7805539775
+bond_coeff 40 ${prot_k} ${sigma} # Actual    3.7804778758
+bond_coeff 41 ${prot_k} ${sigma} # Actual    3.7773054877
+bond_coeff 42 ${prot_k} ${sigma} # Actual    3.7782060663
+bond_coeff 43 ${prot_k} ${sigma} # Actual    3.7799855579
+bond_coeff 44 ${prot_k} ${sigma} # Actual    3.7809428341
+bond_coeff 45 ${prot_k} ${sigma} # Actual    3.7806246288
+bond_coeff 46 ${prot_k} ${sigma} # Actual    3.7802860537
+bond_coeff 47 ${prot_k} ${sigma} # Actual    3.7731377431
+bond_coeff 48 ${prot_k} ${sigma} # Actual    3.7755356356
+bond_coeff 49 ${prot_k} ${sigma} # Actual    3.7803097052
+bond_coeff 50 ${prot_k} ${sigma} # Actual    3.7798125004
+bond_coeff 51 ${prot_k} ${sigma} # Actual    3.7798270741
+bond_coeff 52 ${prot_k} ${sigma} # Actual    3.7805132583
+bond_coeff 53 ${prot_k} ${sigma} # Actual    3.7792359940
+bond_coeff 54 ${prot_k} ${sigma} # Actual    3.7790027705
+bond_coeff 55 ${prot_k} ${sigma} # Actual    3.7810616364
+bond_coeff 56 ${prot_k} ${sigma} # Actual    3.7796536534
+bond_coeff 57 ${prot_k} ${sigma} # Actual    3.7793135971
+bond_coeff 58 ${prot_k} ${sigma} # Actual    3.7804846912
+bond_coeff 59 ${prot_k} ${sigma} # Actual    3.7792884736
+bond_coeff 60 ${prot_k} ${sigma} # Actual    3.7809919532
+bond_coeff 61 ${prot_k} ${sigma} # Actual    3.7802233432
+bond_coeff 62 ${prot_k} ${sigma} # Actual    3.7800589444
+bond_coeff 63 ${prot_k} ${sigma} # Actual    3.7806633326
+bond_coeff 64 ${prot_k} ${sigma} # Actual    3.7789474470
+bond_coeff 65 ${prot_k} ${sigma} # Actual    3.7745169532
+bond_coeff 66 ${prot_k} ${sigma} # Actual    3.7799686715
+bond_coeff 67 ${prot_k} ${sigma} # Actual    3.7762670614
+bond_coeff 68 ${prot_k} ${sigma} # Actual    3.7693675841
+bond_coeff 69 ${prot_k} ${sigma} # Actual    3.7805911406
+bond_coeff 70 ${prot_k} ${sigma} # Actual    3.7786269508
+bond_coeff 71 ${prot_k} ${sigma} # Actual    3.7663717299
+bond_coeff 72 ${prot_k} ${sigma} # Actual    3.7619366551
+bond_coeff 73 ${prot_k} ${sigma} # Actual    3.7782432197
+bond_coeff 74 ${prot_k} ${sigma} # Actual    3.7789142001
+bond_coeff 75 ${prot_k} ${sigma} # Actual    3.7795041393
+bond_coeff 76 ${prot_k} ${sigma} # Actual    3.7747658341
+bond_coeff 77 ${prot_k} ${sigma} # Actual    3.7799337105
+bond_coeff 78 ${prot_k} ${sigma} # Actual    3.7721367741
+bond_coeff 79 ${prot_k} ${sigma} # Actual    3.7776058874
+bond_coeff 80 ${prot_k} ${sigma} # Actual    3.7782177730
+bond_coeff 81 ${prot_k} ${sigma} # Actual    3.7798298811
+bond_coeff 82 ${prot_k} ${sigma} # Actual    3.7744792079
+bond_coeff 83 ${prot_k} ${sigma} # Actual    3.7804223574
+bond_coeff 84 ${prot_k} ${sigma} # Actual    3.7782088497
+bond_coeff 85 ${prot_k} ${sigma} # Actual    3.7802936203
+bond_coeff 86 ${prot_k} ${sigma} # Actual    3.7743124635
+bond_coeff 87 ${prot_k} ${sigma} # Actual    3.7795067616
+bond_coeff 88 ${prot_k} ${sigma} # Actual    3.7770801200
+bond_coeff 89 ${prot_k} ${sigma} # Actual    3.7802988009
+bond_coeff 90 ${prot_k} ${sigma} # Actual    3.7809599368
+bond_coeff 91 ${prot_k} ${sigma} # Actual    3.7767636207
+bond_coeff 92 ${prot_k} ${sigma} # Actual    3.7805929374
+bond_coeff 93 ${prot_k} ${sigma} # Actual    3.7796291945
+bond_coeff 94 ${prot_k} ${sigma} # Actual    3.7810033076
+bond_coeff 95 ${prot_k} ${sigma} # Actual    3.7808849198
+bond_coeff 96 ${prot_k} ${sigma} # Actual    3.7809154332
+bond_coeff 97 ${prot_k} ${sigma} # Actual    3.7726860714
+bond_coeff 98 ${prot_k} ${sigma} # Actual    3.7800465118
+bond_coeff 99 ${prot_k} ${sigma} # Actual    3.7773859587
+bond_coeff 100 ${prot_k} ${sigma} # Actual    3.7752697885
+bond_coeff 101 ${prot_k} ${sigma} # Actual    3.7806019736
+bond_coeff 102 ${prot_k} ${sigma} # Actual    3.7804862475
+bond_coeff 103 ${prot_k} ${sigma} # Actual    3.7803727169
+bond_coeff 104 ${prot_k} ${sigma} # Actual    3.7796198906
+bond_coeff 105 ${prot_k} ${sigma} # Actual    3.7802056625
+bond_coeff 106 ${prot_k} ${sigma} # Actual    3.7803456651
+bond_coeff 107 ${prot_k} ${sigma} # Actual    3.7800285278
+bond_coeff 108 ${prot_k} ${sigma} # Actual    3.7802299020
+bond_coeff 109 ${prot_k} ${sigma} # Actual    3.7802142998
+bond_coeff 110 ${prot_k} ${sigma} # Actual    3.7795507158
+bond_coeff 111 ${prot_k} ${sigma} # Actual    3.7809742098
+bond_coeff 112 ${prot_k} ${sigma} # Actual    3.7811657383
+bond_coeff 113 ${prot_k} ${sigma} # Actual    3.7799108421
+bond_coeff 114 ${prot_k} ${sigma} # Actual    3.7756619746
+bond_coeff 115 ${prot_k} ${sigma} # Actual    3.7770188180
+bond_coeff 116 ${prot_k} ${sigma} # Actual    3.7773171240
+bond_coeff 117 ${prot_k} ${sigma} # Actual    3.7750766804
+bond_coeff 118 ${prot_k} ${sigma} # Actual    3.7776078485
+bond_coeff 119 ${prot_k} ${sigma} # Actual    3.7795696805
+bond_coeff 120 ${prot_k} ${sigma} # Actual    3.7776476156
+bond_coeff 121 ${prot_k} ${sigma} # Actual    3.7795287978
+bond_coeff 122 ${prot_k} ${sigma} # Actual    3.7798900072
+bond_coeff 123 ${prot_k} ${sigma} # Actual    3.7740998827
+bond_coeff 124 ${prot_k} ${sigma} # Actual    3.7804901647
+bond_coeff 125 ${prot_k} ${sigma} # Actual    3.7807474811
+bond_coeff 126 ${prot_k} ${sigma} # Actual    3.7795100771
+bond_coeff 127 ${prot_k} ${sigma} # Actual    3.7786624395
+bond_coeff 128 ${prot_k} ${sigma} # Actual    3.7799968484
+angle_style	 harmonic
+angle_coeff 1 ${angle_k}  109.5099138772
+angle_coeff 2 ${angle_k2}  127.9805711715
+angle_coeff 3 ${angle_k2}  118.5470263570
+angle_coeff 4 ${angle_k2}   91.6922895723
+angle_coeff 5 ${angle_k2}   97.4552884392
+angle_coeff 6 ${angle_k}   94.5078066023
+angle_coeff 7 ${angle_k}   90.4774571374
+angle_coeff 8 ${angle_k}   89.3321841927
+angle_coeff 9 ${angle_k}   91.3609772725
+angle_coeff 10 ${angle_k}   97.6279364923
+angle_coeff 11 ${angle_k}   85.1267988934
+angle_coeff 12 ${angle_k2}   93.0885280840
+angle_coeff 13 ${angle_k2}   83.8523131134
+angle_coeff 14 ${angle_k2}   99.9740695846
+angle_coeff 15 ${angle_k2}  100.7686527390
+angle_coeff 16 ${angle_k2}  105.3213682288
+angle_coeff 17 ${angle_k2}   99.8620000971
+angle_coeff 18 ${angle_k2}   95.6749804899
+angle_coeff 19 ${angle_k2}  105.3211615272
+angle_coeff 20 ${angle_k2}   84.8364262601
+angle_coeff 21 ${angle_k2}  101.8451602609
+angle_coeff 22 ${angle_k2}  116.6942539656
+angle_coeff 23 ${angle_k2}  118.4119201996
+angle_coeff 24 ${angle_k2}   86.8475383462
+angle_coeff 25 ${angle_k2}   91.7998827941
+angle_coeff 26 ${angle_k2}   84.7583955610
+angle_coeff 27 ${angle_k2}  101.7712654604
+angle_coeff 28 ${angle_k}   86.1124875455
+angle_coeff 29 ${angle_k}   95.8274196353
+angle_coeff 30 ${angle_k}   90.8005949154
+angle_coeff 31 ${angle_k}   94.1590342845
+angle_coeff 32 ${angle_k}   93.5899867633
+angle_coeff 33 ${angle_k2}   92.5636224547
+angle_coeff 34 ${angle_k2}  100.1924628392
+angle_coeff 35 ${angle_k2}  111.1321682291
+angle_coeff 36 ${angle_k2}   90.6906436190
+angle_coeff 37 ${angle_k2}   86.5484866232
+angle_coeff 38 ${angle_k2}  113.7206202089
+angle_coeff 39 ${angle_k2}   93.1703218056
+angle_coeff 40 ${angle_k2}   93.0728383203
+angle_coeff 41 ${angle_k2}  120.3865090485
+angle_coeff 42 ${angle_k}  133.0624996892
+angle_coeff 43 ${angle_k}  132.8986407528
+angle_coeff 44 ${angle_k2}  118.0420471957
+angle_coeff 45 ${angle_k2}  118.5578579314
+angle_coeff 46 ${angle_k2}   97.1227897657
+angle_coeff 47 ${angle_k2}   91.6893993736
+angle_coeff 48 ${angle_k2}   93.1720693878
+angle_coeff 49 ${angle_k2}  121.1876964245
+angle_coeff 50 ${angle_k}  131.2897071682
+angle_coeff 51 ${angle_k2}  121.3871250016
+angle_coeff 52 ${angle_k2}  141.7792717652
+angle_coeff 53 ${angle_k2}  137.5550566169
+angle_coeff 54 ${angle_k2}   91.8905518664
+angle_coeff 55 ${angle_k2}   96.1892539185
+angle_coeff 56 ${angle_k2}   99.8678838162
+angle_coeff 57 ${angle_k2}  115.1801257972
+angle_coeff 58 ${angle_k2}  128.1388502034
+angle_coeff 59 ${angle_k2}   99.2865663366
+angle_coeff 60 ${angle_k2}   86.7288176426
+angle_coeff 61 ${angle_k2}  120.0994059960
+angle_coeff 62 ${angle_k2}  107.7411362330
+angle_coeff 63 ${angle_k2}  140.9259358199
+angle_coeff 64 ${angle_k2}  122.0828062231
+angle_coeff 65 ${angle_k2}   94.8193400216
+angle_coeff 66 ${angle_k2}   96.4847749152
+angle_coeff 67 ${angle_k2}  106.7040353621
+angle_coeff 68 ${angle_k2}  110.1857154688
+angle_coeff 69 ${angle_k2}  106.0493709656
+angle_coeff 70 ${angle_k2}   82.4829428068
+angle_coeff 71 ${angle_k2}  129.9904121418
+angle_coeff 72 ${angle_k}  110.9424701368
+angle_coeff 73 ${angle_k}   96.5825080975
+angle_coeff 74 ${angle_k}   92.2451277640
+angle_coeff 75 ${angle_k2}   89.9839823609
+angle_coeff 76 ${angle_k2}   93.8638105532
+angle_coeff 77 ${angle_k2}  133.4003162809
+angle_coeff 78 ${angle_k2}  107.5275945329
+angle_coeff 79 ${angle_k2}   88.2825183678
+angle_coeff 80 ${angle_k2}   89.3580187207
+angle_coeff 81 ${angle_k2}   87.9128459001
+angle_coeff 82 ${angle_k2}   91.0289292723
+angle_coeff 83 ${angle_k2}   97.6546064520
+angle_coeff 84 ${angle_k2}  120.6781626004
+angle_coeff 85 ${angle_k2}   89.7219596674
+angle_coeff 86 ${angle_k2}  108.2988750033
+angle_coeff 87 ${angle_k2}   94.4400840124
+angle_coeff 88 ${angle_k2}   94.6228997177
+angle_coeff 89 ${angle_k2}   91.8116271775
+angle_coeff 90 ${angle_k}   94.3623102213
+angle_coeff 91 ${angle_k}   91.9869147040
+angle_coeff 92 ${angle_k2}   88.6464917949
+angle_coeff 93 ${angle_k2}   94.6065104181
+angle_coeff 94 ${angle_k2}   88.5063589806
+angle_coeff 95 ${angle_k2}   87.6031003795
+angle_coeff 96 ${angle_k2}   94.2411771549
+angle_coeff 97 ${angle_k}   93.9605529991
+angle_coeff 98 ${angle_k2}   93.8724579069
+angle_coeff 99 ${angle_k2}   99.0654168406
+angle_coeff 100 ${angle_k2}   95.0669608269
+angle_coeff 101 ${angle_k2}  122.1675460948
+angle_coeff 102 ${angle_k2}   99.7963009922
+angle_coeff 103 ${angle_k2}  113.6616492844
+angle_coeff 104 ${angle_k2}   89.0262107353
+angle_coeff 105 ${angle_k2}   80.8824400708
+angle_coeff 106 ${angle_k2}   82.5474631265
+angle_coeff 107 ${angle_k2}  112.2957830999
+angle_coeff 108 ${angle_k2}   92.4009964387
+angle_coeff 109 ${angle_k}   98.4015080718
+angle_coeff 110 ${angle_k2}   88.6267900441
+angle_coeff 111 ${angle_k2}   95.4365980922
+angle_coeff 112 ${angle_k2}  101.5467554411
+angle_coeff 113 ${angle_k2}  108.4392057364
+angle_coeff 114 ${angle_k2}  108.1059041822
+angle_coeff 115 ${angle_k2}  110.2749313070
+angle_coeff 116 ${angle_k2}  100.2074581525
+angle_coeff 117 ${angle_k2}  121.5784056828
+angle_coeff 118 ${angle_k2}   96.3950367047
+angle_coeff 119 ${angle_k2}   93.5081148225
+angle_coeff 120 ${angle_k2}   84.2848453080
+angle_coeff 121 ${angle_k2}   87.0999121853
+angle_coeff 122 ${angle_k2}   93.4086857848
+angle_coeff 123 ${angle_k2}   95.3620500524
+angle_coeff 124 ${angle_k2}  104.3956949964
+angle_coeff 125 ${angle_k2}   96.8880369328
+angle_coeff 126 ${angle_k2}  131.9907725535
+angle_coeff 127 ${angle_k}   94.5855639217
+
+dihedral_style	 go
+
+ dihedral_coeff 1 ${torsional_1} -146.061874
+ dihedral_coeff 2 ${torsional_1} -121.273976
+ dihedral_coeff 3 ${torsional_2} -112.208246
+ dihedral_coeff 4 ${torsional_1} 38.600243
+ dihedral_coeff 5 ${torsional_1} 54.487509
+ dihedral_coeff 6 ${torsional_1} 46.174333
+ dihedral_coeff 7 ${torsional_1} 54.253988
+ dihedral_coeff 8 ${torsional_1} 46.698415
+ dihedral_coeff 9 ${torsional_1} 46.214473
+ dihedral_coeff 10 ${torsional_1} 50.044919
+ dihedral_coeff 11 ${torsional_1} 50.252642
+ dihedral_coeff 12 ${torsional_1} 51.493328
+ dihedral_coeff 13 ${torsional_2} 57.667661
+ dihedral_coeff 14 ${torsional_2} -100.212318
+ dihedral_coeff 15 ${torsional_2} 115.864665
+ dihedral_coeff 16 ${torsional_2} 106.681546
+ dihedral_coeff 17 ${torsional_2} -7.260448
+ dihedral_coeff 18 ${torsional_1} 164.609208
+ dihedral_coeff 19 ${torsional_2} -5.940062
+ dihedral_coeff 20 ${torsional_2} -60.870917
+ dihedral_coeff 21 ${torsional_1} 132.211214
+ dihedral_coeff 22 ${torsional_1} -123.228163
+ dihedral_coeff 23 ${torsional_2} -109.311572
+ dihedral_coeff 24 ${torsional_2} 59.064025
+ dihedral_coeff 25 ${torsional_2} 62.689078
+ dihedral_coeff 26 ${torsional_1} 44.079006
+ dihedral_coeff 27 ${torsional_1} 46.979309
+ dihedral_coeff 28 ${torsional_1} 52.145474
+ dihedral_coeff 29 ${torsional_1} 46.536631
+ dihedral_coeff 30 ${torsional_1} 49.425106
+ dihedral_coeff 31 ${torsional_1} 53.206351
+ dihedral_coeff 32 ${torsional_1} 36.893620
+ dihedral_coeff 33 ${torsional_1} 48.142521
+ dihedral_coeff 34 ${torsional_2} -6.894884
+ dihedral_coeff 35 ${torsional_2} -115.453534
+ dihedral_coeff 36 ${torsional_2} -62.835728
+ dihedral_coeff 37 ${torsional_1} 134.919462
+ dihedral_coeff 38 ${torsional_1} -169.435143
+ dihedral_coeff 39 ${torsional_2} 62.612396
+ dihedral_coeff 40 ${torsional_1} 124.505227
+ dihedral_coeff 41 ${torsional_1} 175.496985
+ dihedral_coeff 42 ${torsional_1} -173.689468
+ dihedral_coeff 43 ${torsional_1} -138.351293
+ dihedral_coeff 44 ${torsional_1} -157.891860
+ dihedral_coeff 45 ${torsional_2} -103.513346
+ dihedral_coeff 46 ${torsional_2} 68.981861
+ dihedral_coeff 47 ${torsional_2} -98.980664
+ dihedral_coeff 48 ${torsional_1} 122.722483
+ dihedral_coeff 49 ${torsional_1} -150.636270
+ dihedral_coeff 50 ${torsional_1} -130.170199
+ dihedral_coeff 51 ${torsional_1} -154.682722
+ dihedral_coeff 52 ${torsional_2} -22.018636
+ dihedral_coeff 53 ${torsional_2} -33.465844
+ dihedral_coeff 54 ${torsional_2} 34.368538
+ dihedral_coeff 55 ${torsional_1} -126.034615
+ dihedral_coeff 56 ${torsional_1} -166.116980
+ dihedral_coeff 57 ${torsional_2} -118.829203
+ dihedral_coeff 58 ${torsional_1} -147.010680
+ dihedral_coeff 59 ${torsional_2} 73.668169
+ dihedral_coeff 60 ${torsional_2} 0.372789
+ dihedral_coeff 61 ${torsional_1} 41.580694
+ dihedral_coeff 62 ${torsional_2} 15.647034
+ dihedral_coeff 63 ${torsional_2} -119.629646
+ dihedral_coeff 64 ${torsional_1} 163.696938
+ dihedral_coeff 65 ${torsional_2} -116.253063
+ dihedral_coeff 66 ${torsional_2} 72.228012
+ dihedral_coeff 67 ${torsional_2} 86.559499
+ dihedral_coeff 68 ${torsional_1} -167.890400
+ dihedral_coeff 69 ${torsional_2} 60.124430
+ dihedral_coeff 70 ${torsional_1} 157.379252
+ dihedral_coeff 71 ${torsional_1} 171.906937
+ dihedral_coeff 72 ${torsional_1} -153.667087
+ dihedral_coeff 73 ${torsional_1} 163.150160
+ dihedral_coeff 74 ${torsional_1} 50.267366
+ dihedral_coeff 75 ${torsional_1} -138.718909
+ dihedral_coeff 76 ${torsional_2} 113.695565
+ dihedral_coeff 77 ${torsional_2} -107.214253
+ dihedral_coeff 78 ${torsional_1} -122.611181
+ dihedral_coeff 79 ${torsional_2} 66.890602
+ dihedral_coeff 80 ${torsional_2} 66.036561
+ dihedral_coeff 81 ${torsional_2} 63.187760
+ dihedral_coeff 82 ${torsional_2} 59.124625
+ dihedral_coeff 83 ${torsional_2} 113.205155
+ dihedral_coeff 84 ${torsional_2} -110.646652
+ dihedral_coeff 85 ${torsional_2} 77.046473
+ dihedral_coeff 86 ${torsional_1} -159.642629
+ dihedral_coeff 87 ${torsional_2} 106.399265
+ dihedral_coeff 88 ${torsional_1} 46.718855
+ dihedral_coeff 89 ${torsional_1} 49.299170
+ dihedral_coeff 90 ${torsional_1} 43.559473
+ dihedral_coeff 91 ${torsional_1} 52.942332
+ dihedral_coeff 92 ${torsional_1} 39.681360
+ dihedral_coeff 93 ${torsional_2} 56.678298
+ dihedral_coeff 94 ${torsional_2} 60.071937
+ dihedral_coeff 95 ${torsional_1} 46.998074
+ dihedral_coeff 96 ${torsional_1} 49.924698
+ dihedral_coeff 97 ${torsional_1} 47.760662
+ dihedral_coeff 98 ${torsional_1} 49.795426
+ dihedral_coeff 99 ${torsional_2} 80.493096
+ dihedral_coeff 100 ${torsional_2} -73.651799
+ dihedral_coeff 101 ${torsional_2} 61.771138
+ dihedral_coeff 102 ${torsional_1} -146.720748
+ dihedral_coeff 103 ${torsional_2} -23.383008
+ dihedral_coeff 104 ${torsional_2} 92.194491
+ dihedral_coeff 105 ${torsional_2} 77.758307
+ dihedral_coeff 106 ${torsional_2} 71.247053
+ dihedral_coeff 107 ${torsional_1} -157.561457
+ dihedral_coeff 108 ${torsional_1} 49.794182
+ dihedral_coeff 109 ${torsional_1} 50.421900
+ dihedral_coeff 110 ${torsional_1} 49.841136
+ dihedral_coeff 111 ${torsional_2} 31.961906
+ dihedral_coeff 112 ${torsional_2} 20.912580
+ dihedral_coeff 113 ${torsional_2} 29.482648
+ dihedral_coeff 114 ${torsional_2} 100.634847
+ dihedral_coeff 115 ${torsional_2} 5.597218
+ dihedral_coeff 116 ${torsional_2} 107.547011
+ dihedral_coeff 117 ${torsional_2} -85.658998
+ dihedral_coeff 118 ${torsional_1} 178.349921
+ dihedral_coeff 119 ${torsional_2} 80.088224
+ dihedral_coeff 120 ${torsional_2} 78.866331
+ dihedral_coeff 121 ${torsional_2} 63.973705
+ dihedral_coeff 122 ${torsional_1} 37.623720
+ dihedral_coeff 123 ${torsional_1} 124.385096
+ dihedral_coeff 124 ${torsional_2} 27.165146
+ dihedral_coeff 125 ${torsional_1} 130.839713
+ dihedral_coeff 126 ${torsional_1} -136.618324
